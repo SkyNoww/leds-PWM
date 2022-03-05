@@ -1,0 +1,33 @@
+// on definit les variable a utilises //
+const byte led = 3;
+int x = 0;
+
+// configuration de la led //
+void setup ()
+{
+
+   pinMode(led, OUTPUT); // La led est une sortie 
+}
+
+
+// configuration du PWM //
+void loop ()
+{
+       
+        digitalWrite(led, LOW);
+        delay(1);
+        
+     for ( x = 0; x < 100; x++) 
+     {
+
+       if (x < 20)
+       {
+          digitalWrite(led, HIGH);
+       }
+
+       else
+       {
+          digitalWrite(led, LOW);
+       }
+     }                           
+}
