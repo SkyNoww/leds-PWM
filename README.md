@@ -9,6 +9,7 @@ First upload the program to the Arduino then click on the small magnifying glass
 
 RESULT !! :
 
-![PWM](https://user-images.githubusercontent.com/93336837/156865972-dd899ba4-9df8-41ab-9506-56344997bbad.jpg)
 
+
+![PWM 2](https://user-images.githubusercontent.com/93336837/156866036-c9622a1e-6c36-4672-adb0-03780efbb815.jpg)
 
